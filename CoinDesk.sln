@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinDesk", "CoinDesk\CoinDesk.csproj", "{7B555DC6-5BC1-42D4-99AB-8E64DC7256DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinDesk.Tests", "CoinDesk.Tests\CoinDesk.Tests.csproj", "{18F026BD-BDF7-4072-A92F-E53E5993047F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B555DC6-5BC1-42D4-99AB-8E64DC7256DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B555DC6-5BC1-42D4-99AB-8E64DC7256DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B555DC6-5BC1-42D4-99AB-8E64DC7256DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B555DC6-5BC1-42D4-99AB-8E64DC7256DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18F026BD-BDF7-4072-A92F-E53E5993047F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18F026BD-BDF7-4072-A92F-E53E5993047F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18F026BD-BDF7-4072-A92F-E53E5993047F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18F026BD-BDF7-4072-A92F-E53E5993047F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1D45F51-7869-4FCB-9A6D-38187B3C6F1F}
+	EndGlobalSection
+EndGlobal
